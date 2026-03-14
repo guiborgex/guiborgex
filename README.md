@@ -1,10 +1,6 @@
 <h1 align="center">Guilherme Borges de Gouveia</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software • Focado em back-end, lógica de programação e orientação a objetos
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/guiborgex" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
