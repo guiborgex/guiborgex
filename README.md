@@ -12,8 +12,6 @@
 - 🎓 Currently in the 3rd semester of Software Engineering at UniCesumar
 - 💻 Studying and practicing Java, Python, C, C++, C#, HTML, CSS and JavaScript
 - 📚 Strengthening my foundation in programming logic, data structures and object-oriented programming
-- 🚀 Looking for an internship or junior opportunity in technology
-- 📌 Organizing my practical progress through repositories here on GitHub
 
 ## Tech stack
 
