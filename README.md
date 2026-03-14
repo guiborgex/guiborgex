@@ -1,21 +1,21 @@
-<h1>Olá! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40" /> Prazer, eu sou Guilherme</h1>
+<h1>Hey there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40" /> I'm Guilherme</h1>
 
 <p>
-  Meu nome é <b>Guilherme Borges de Gouveia</b> e sou estudante de 
-  <b>Engenharia de Software</b>, do 
+  My name is <b>Guilherme Borges de Gouveia</b> and I'm a 
+  <b>Software Engineering student</b> from 
   <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> 
-  <b>Brasil</b>.
+  <b>Brazil</b>.
 </p>
 
-## Sobre mim
+## About me
 
-- 🎓 Atualmente no **3º semestre de Engenharia de Software** na UniCesumar
-- 💻 Estudando e praticando **Java, Python, C, C++, C#, HTML, CSS e JavaScript**
-- 📚 Fortalecendo minha base em **lógica de programação, estruturas de dados e orientação a objetos**
-- 🚀 Buscando oportunidade de **estágio ou vaga júnior** na área de tecnologia
-- 📌 Organizando minha evolução prática em repositórios aqui no GitHub
+- 🎓 Currently in the 3rd semester of Software Engineering at UniCesumar
+- 💻 Studying and practicing Java, Python, C, C++, C#, HTML, CSS and JavaScript
+- 📚 Strengthening my foundation in programming logic, data structures and object-oriented programming
+- 🚀 Looking for an internship or junior opportunity in technology
+- 📌 Organizing my practical progress through repositories here on GitHub
 
-## Tecnologias e estudos
+## Tech stack
 
 <p>
   <a href="https://www.java.com/" target="_blank">
@@ -38,15 +38,15 @@
     <img align="left" title="C#" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </a>
 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img align="left" title="HTML" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </a>
 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img align="left" title="CSS" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </a>
 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </a>
 
@@ -59,19 +59,21 @@
 <br />
 <br />
 
-## Repositórios em destaque
+## Featured repositories
 
 - 📘 [Programming Studies](https://github.com/guiborgex/programming-studies)
 - ☕ [Java Studies](https://github.com/guiborgex/java-studies)
 - 💜 [C# Studies](https://github.com/guiborgex/csharp-studies)
 - 🐍 [Python Studies](https://github.com/guiborgex/python-studies)
-- 📚 [Sistema Gerenciamento Biblioteca](https://github.com/guiborgex/sistema-gerenciamento-biblioteca-c)
+- 📚 [Library Management System](https://github.com/guiborgex/sistema-gerenciamento-biblioteca-c)
 
-## Contato
+## Contact
 
 <p>
   <a href="https://linkedin.com/in/guiborgex" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Guiborgex-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:guilhermeborgesgv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
