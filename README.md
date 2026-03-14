@@ -1,8 +1,7 @@
-<h1>Hey <img src="https://slackmojis.com/emojis/26737-waving/download" width="40" /> What's up?</h1>
+<h1>Hi, I'm Guilherme <img src="https://slackmojis.com/emojis/26737-waving/download" width="40" /></h1>
 
-<p>
-  My name is <b>Guilherme Borges de Gouveia</b> and I'm a 
-  <b>Software Engineering student,</b> from 
+<p> 
+  Software Engineering student from 
   <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> 
   <b>Brazil</b>.
 </p>
