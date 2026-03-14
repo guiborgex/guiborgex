@@ -1,55 +1,52 @@
-<h1 align="center">Guilherme Borges de Gouveia</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/guiborgex" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:guilhermeborgesgv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/guiborgex/programming-studies" target="_blank">
-    <img src="https://img.shields.io/badge/Programming%20Studies-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<p> My name is Mauro and I'm a software developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
 
----
+## About me
 
-## 👨‍💻 Sobre mim
+- ✨ Creating bugs since 2019
+- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
+- 🎯 Goals: live in a cold place ❄ and speak english 🚀
+- 🎲 And ... I play 🎸 guitar and ♟ chess online
 
-- 🎓 3º semestre de Engenharia de Software na UniCesumar
-- 🚀 Buscando oportunidade de estágio ou vaga júnior em tecnologia
-- 📚 Estudando e praticando Java, Python, C, C++, C#, HTML, CSS e JavaScript
-- 📌 Organizando minha evolução prática em repositórios no GitHub
+## I code with
 
----
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+</a>
 
-## 🛠️ Tecnologias
+<a href="https://pt-br.reactjs.org" target="_blank">
+ <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
+</a>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<a href="https://tailwindcss.com" target="_blank">
+ <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
+</a>
 
----
+<a href="https://nextjs.org" target="_blank">
+  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
+</a>
 
-## 📂 Repositórios em destaque
+<a href="https://nestjs.com" target="_blank">
+  <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
+</a>
 
-- [Programming Studies](https://github.com/guiborgex/programming-studies) — repositório central com meus estudos em C, C++, C#, Java e Python
-- [Java Studies](https://github.com/guiborgex/java-studies) — exercícios e práticas em Java
-- [C# Studies](https://github.com/guiborgex/csharp-studies) — exercícios e práticas em C#
-- [Python Studies](https://github.com/guiborgex/python-studies) — exercícios e práticas em Python
-- [Sistema Gerenciamento Biblioteca](https://github.com/guiborgex/sistema-gerenciamento-biblioteca-c) — projeto acadêmico em C
+<a href="https://go.dev" target="_blank">
+  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="./assets/golang-logo.svg" />
+</a>
 
----
+<a href="https://graphql.org" target="_blank">
+  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./assets/graphql-logo.svg" />
+</a>
 
-## 🎯 Objetivo atual
+<a href="https://jestjs.io/pt-BR/" target="_blank">
+  <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
+</a>
 
-Fortalecer minha base em desenvolvimento de software, construir projetos cada vez mais organizados e conquistar uma oportunidade de estágio para evoluir profissionalmente na área de tecnologia.
+<a href="https://www.cypress.io" target="_blank">
+  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
+</a>
+
+<a href="https://storybook.js.org" target="_blank">
+  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
+</a>
