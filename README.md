@@ -12,6 +12,7 @@
 - 🎓 Currently in the 3rd semester of Software Engineering at UniCesumar
 - 💻 Studying and practicing Java, Python, C, C++, C#, HTML, CSS and JavaScript
 - 📚 Strengthening my foundation in programming logic, data structures and object-oriented programming
+- 🚀 Looking for an internship opportunity in software development
 
 ## Tech stack
 
@@ -59,7 +60,7 @@
 - ☕ [Java Studies](https://github.com/guiborgex/java-studies)
 - 💜 [C# Studies](https://github.com/guiborgex/csharp-studies)
 - 🐍 [Python Studies](https://github.com/guiborgex/python-studies)
-- 📚 [Library Management System](https://github.com/guiborgex/sistema-gerenciamento-biblioteca-c)
+- 📚 [Library Management System in C](https://github.com/guiborgex/sistema-gerenciamento-biblioteca-c)
 
 ## Contact
 
