@@ -1,4 +1,4 @@
-<h1>Hey <img src="https://emojis.slackmojis.com/emojis/images/1643514123/825/ghost.gif?1643514123" width="40" /> What's up?</h1>
+<h1>Hey <img src="https://slackmojis.com/emojis/26737-waving/download" width="40" /> What's up?</h1>
 
 <p>
   My name is <b>Guilherme Borges de Gouveia</b> and I'm a 
