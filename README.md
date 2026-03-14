@@ -1,17 +1,16 @@
-<h1>Hi, I'm Guilherme <img src="https://slackmojis.com/emojis/26737-waving/download" width="40" /></h1>
+<h1>Hi, I'm Guilherme! <img src="https://slackmojis.com/emojis/26737-waving/download" width="40" /></h1>
 
 <p> 
   Software Engineering student from 
   <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> 
-  <b>Brazil</b>.
+  <b>Brazil</b>, currently building practical programming experience and exploring my next specialization path.
 </p>
 
 ## About me
 
 - 🎓 Currently in the 3rd semester of Software Engineering at UniCesumar
-- 💻 Studying and practicing Java, Python, C, C++, C#, HTML, CSS and JavaScript
-- 📚 Strengthening my foundation in programming logic, data structures and object-oriented programming
-- 🚀 Looking for an internship opportunity in software development
+- 📚 Organizing my learning journey through repositories with programming studies and academic projects
+- 💡 Exploring different areas of development while defining my main specialization path
 
 ## Tech stack
 
