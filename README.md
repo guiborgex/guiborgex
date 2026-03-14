@@ -2,7 +2,7 @@
 
 <p>
   My name is <b>Guilherme Borges de Gouveia</b> and I'm a 
-  <b>Software Engineering student</b> from 
+  <b>Software Engineering student,</b> from 
   <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> 
   <b>Brazil</b>.
 </p>
