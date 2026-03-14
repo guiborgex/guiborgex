@@ -1,16 +1,36 @@
-## Hi there 👋
+# Guilherme Borges de Gouveia
 
-<!--
-**guiborgex/guiborgex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software, atualmente focado no desenvolvimento da minha base em programação, lógica e orientação a objetos.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 3º semestre de Engenharia de Software na UniCesumar
+- Em busca de oportunidade de estágio ou vaga júnior em tecnologia
+- Estudando e praticando Java, Python, C, C++, C#, HTML, CSS e JavaScript
+- Organizando minha evolução prática em repositórios no GitHub
+
+## Tecnologias e estudos
+
+- Java
+- Python
+- C
+- C++
+- C#
+- HTML
+- CSS
+- JavaScript
+- Git
+- SQL básico
+
+## Repositórios em destaque
+
+- [Programming Studies](https://github.com/guiborgex/programming-studies)
+- [Java Studies](https://github.com/guiborgex/java-studies)
+- [C# Studies](https://github.com/guiborgex/csharp-studies)
+- [Python Studies](https://github.com/guiborgex/python-studies)
+- [Sistema Gerenciamento Biblioteca](https://github.com/guiborgex/sistema-gerenciamento-biblioteca-c)
+
+## Contato
+
+- [LinkedIn](https://linkedin.com/in/guiborgex)
+- Email: guilhermeborgesgv@gmail.com
