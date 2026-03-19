@@ -1,4 +1,4 @@
-<h1>Hi, i'm Guilherme! <img src="https://slackmojis.com/emojis/26737-waving/download" width="40" /></h1>
+<h1>Hi, i'm Guilherme! /></h1>
 
 <p> 
   Software Engineering student from 
