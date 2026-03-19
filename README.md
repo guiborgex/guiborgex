@@ -1,4 +1,4 @@
-<h1>Hi, i'm Guilherme! /></h1>
+<h1>Hi, i'm Guilherme!</h1>
 
 <p> 
   Software Engineering student from 
